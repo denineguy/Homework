@@ -1,6 +1,5 @@
-Hello World!
+Hello New York!
 
 Love,
-
 Denine Nicole
 
